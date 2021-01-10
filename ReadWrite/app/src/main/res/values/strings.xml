@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyReadWriteFile</string>
+    <string name="file_new">File New</string>
+    <string name="file_open">File Open</string>
+    <string name="file_save">File Save</string>
+    <string name="title">Title</string>
+    <string name="Clearing">Clearing File</string>
+    <string name="file_diinginkan">Pilih file yang diinginkan</string>
+    <string name="loading">loading</string>
+    <string name="data">data</string>
+    <string name="diisi">Title harus diisi terlebih dahulu</string>
+    <string name="kontent">Kontent harus diisi terlebih dahulu</string>
+    <string name="saving">Saving</string>
+    <string name="nama_developer">Candra Julius Sinaga</string>
+</resources>
